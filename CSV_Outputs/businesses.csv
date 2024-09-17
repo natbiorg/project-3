@@ -1,0 +1,241 @@
+,Name,Business_ID,Latitude,Longitude,Address,Rating,Review_count,Price,Categories,Transactions,ZIP,Pickup,Delivery,Restaurant_Reservation
+0,Bottega,QueFVMcMlT-6aZFv2M47mg,37.75472,-122.4212,"1132 Valencia St, San Francisco, CA 94158",4.3,1210,$$,"('Italian, Pasta Shops, Pizza',)","['pickup', 'delivery']",94158,True,True,False
+1,Fog Harbor Fish House,f-m7-hyFzkf0HSEeQ2s-9A,37.80867300000001,-122.409821,"39 Pier, San Francisco, CA 94133",4.4,10946,$$,"('Seafood, Wine Bars, Cocktail Bars',)",['restaurant_reservation'],94133,False,False,True
+2,Marufuku Ramen,HHtpR0RslupSQ99GIIwW5A,37.78522,-122.43157,"1581 Webster St, Ste 235, San Francisco, CA 94115",4.5,5279,$$,"('Ramen',)","['pickup', 'delivery']",94115,True,True,False
+3,Blind Butcher,ZSzXw0NgJTyOzcHwKY5eMA,37.76116,-122.43414,"4058 18th St, San Francisco, CA 94114",4.0,407,$$,"('New American, Wine Bars',)",['delivery'],94114,False,True,False
+4,Movida,HqTJ1kG1e-HHv3Bx5jHbjA,37.78249,-122.39266,"555 2nd St, San Francisco, CA 94107",4.3,195,N/A,"('Persian/Iranian, Mexican',)",[],94107,False,False,False
+5,The Hungry Spot,keeuVo1Rgp2_5QN3t1REMQ,37.773205,-122.450644,"2077 Hayes St, San Francisco, CA 94117",4.9,37,$$,"('Comfort Food, Salad, Sandwiches',)","['pickup', 'restaurant_reservation', 'delivery']",94117,True,True,True
+6,Horsefeather,lUUQi1b2rV3glIn4t2I1Iw,37.774507,-122.437427,"528 Divisadero St, San Francisco, CA 94117",4.0,633,$$,"('Cocktail Bars, New American',)","['pickup', 'delivery']",94117,True,True,False
+7,Sotto Mare,8dUaybEPHsZMgr1iKgqgMQ,37.79979,-122.40834,"552 Green St, San Francisco, CA 94133",4.3,5479,$$,"('Seafood, Italian, Bars',)","['pickup', 'delivery']",94133,True,True,False
+8,The Snug,_hOVIgjVRl_HzvLaa65KJg,37.79094,-122.43443,"2301 Fillmore St, San Francisco, CA 94115",4.0,455,$$,"('Cocktail Bars, New American',)",['delivery'],94115,False,True,False
+9,Nopa,ttarnopezxmp2ROB1N2PaA,37.77502915705348,-122.43761001966246,"560 Divisadero St, San Francisco, CA 94117",4.2,5570,$$$,"('New American, Desserts, Cocktail Bars',)",['pickup'],94117,True,False,False
+10,Pearl,sfqkkqFmmYGOT0PCbbD9ZQ,37.7838344,-122.4830463,"6101 California St, San Francisco, CA 94121",4.4,515,$$$,"('Italian, Seafood, Mediterranean',)",['delivery'],94121,False,True,False
+11,Daeho Kalbijjim & Beef Soup,dY0Mc_PHH6nLENvWmVtwxQ,37.78601,-122.42858,"1620 Post St, San Francisco, CA 94115",4.5,2126,$$$,"('Korean, Soup, Noodles',)","['pickup', 'restaurant_reservation', 'delivery']",94115,True,True,True
+12,Beit Rima,d5752S_RDb26HxoL6O06eQ,37.765956,-122.449679,"86 Carl St, San Francisco, CA 94117",4.4,376,$$,"('Arabic, Mediterranean, Lebanese',)",[],94117,False,False,False
+13,NONO,VM2S8wKPz9zNnH0e1PKNDA,37.78569,-122.43294,"1730 Fillmore St, San Francisco, CA 94115",4.3,178,N/A,"('Izakaya, Sushi Bars',)",[],94115,False,False,False
+14,The Rustic,o4V-TCAgB6_WQfRGvpBM3Q,37.76718,-122.42873,"215 Church St, San Francisco, CA 94114",4.7,120,$$$,"('Italian, Modern European, New American',)","['pickup', 'delivery']",94114,True,True,False
+15,Khao Tiew,lz7EgaxedlmKRq9hrFkulA,37.741091,-122.465071,"272 Claremont Blvd, San Francisco, CA 94127",4.5,144,N/A,"('Thai',)",['restaurant_reservation'],94127,False,False,True
+16,606,RjPKqHk_FiegJVCekbJ4Mw,37.79798,-122.40721,"606 Broadway, San Francisco, CA 94133",4.7,176,N/A,"('Hong Kong Style Cafe, Cantonese',)","['pickup', 'restaurant_reservation', 'delivery']",94133,True,True,True
+17,Otra,D26qBnudK_1pdo6AlvMlvQ,37.771842,-122.433369,"682 Haight St, San Francisco, CA 94117",4.4,187,N/A,"('Mexican, Cocktail Bars',)",[],94117,False,False,False
+18,JIJIME,2E9O-p-lp587aOMnpLepkQ,37.7806549278456,-122.478949574806,"5524 Geary Blvd, San Francisco, CA 94121",4.3,634,$$,"('Korean, Asian Fusion, Ramen',)","['pickup', 'delivery']",94121,True,True,False
+19,Cha Cha Cha,kOYj2sGMZnyC1lU-_Uw5fA,37.769266067639215,-122.45205007340454,"1801 Haight St, San Francisco, CA 94117",3.9,3523,$$,"('Caribbean, Cuban, Tapas Bars',)","['pickup', 'delivery']",94117,True,True,False
+20,Santeria,qfRZjzNqO3fRgEGqvGNY-A,37.764836,-122.431808,"2251 Market St, San Francisco, CA 94114",4.4,346,$$,"('Mexican, Cocktail Bars',)",['restaurant_reservation'],94114,False,False,True
+21,Katsuo + Kombu,ROc853t9IUOUfCld-2Kx8w,37.77480087023776,-122.43798509114356,"559 Divisadero St, San Francisco, CA 94117",4.4,205,$$,"('Japanese, Noodles',)",[],94117,False,False,False
+22,The Tailor's Son,MaaySW1ejpwQCkr9jn1glA,37.788589,-122.434054,"2049 Fillmore St, San Francisco, CA 94115",4.1,563,$$,"('Italian, Cocktail Bars, Breakfast & Brunch',)",[],94115,False,False,False
+23,Seven Hills,dTWMVRcMVC4zynbFQC7A2A,37.7981712,-122.4186984,"1896 Hyde St, San Francisco, CA 94109",4.5,1411,$$$,"('Italian, Wine Bars',)",[],94109,False,False,False
+24,Niku Steakhouse,RYQBuRLmBs1K1zTOAHPoQQ,37.769675768063806,-122.40351925075042,"61 Division St, San Francisco, CA 94103",4.4,781,$$$$,"('Japanese, Steakhouses',)",['delivery'],94103,False,True,False
+25,Four Kings,T6krutcCsZ317NS_EGbUZQ,37.79409,-122.40506,"710 Commercial St, San Francisco, CA 94108",4.4,118,N/A,"('Cantonese, Asian Fusion',)",[],94108,False,False,False
+26,Beretta Divisadero,x2djtavZIsv84ZKnz_vRMA,37.775757,-122.438301,"661 Divisadero St, San Francisco, CA 94117",4.2,532,$$,"('Italian, Pizza, Breakfast & Brunch',)",['restaurant_reservation'],94117,False,False,True
+27,little shucker,U7xNnqW_rXeo7G58JXr4uA,37.788292,-122.433458,"2016 Fillmore St, San Francisco, CA 94115",4.4,219,N/A,"('Seafood',)",[],94115,False,False,False
+28,San Ho Won,kvFI8S8XuE0793DBR0wSbg,37.75961276313876,-122.4102472,"2170 Bryant St, San Francisco, CA 94110",4.6,656,$$$$,"('Korean, Barbeque',)",[],94110,False,False,False
+29,Ben Thai Cafe,tZmiZw49SNRVzF6h1Jfx9g,37.78924,-122.42065,"1331 Polk St, San Francisco, CA 94109",4.4,1124,$$,"('Thai, Noodles',)","['pickup', 'restaurant_reservation', 'delivery']",94109,True,True,True
+30,Pinsa Rossa,E_W8aGdYm8hnfy1WuGJcVQ,37.78896562756244,-122.43397533119676,"2101 Fillmore St, San Francisco, CA 94115",4.6,137,N/A,"('Italian, Pizza, Beer Bar',)",[],94115,False,False,False
+31,Lokma,E2Ri3Uudb3ogKfWBJIIhRw,37.78215,-122.47867,"1801 Clement St, San Francisco, CA 94121",4.6,858,$$,"('Mediterranean, Breakfast & Brunch, Vegetarian',)","['pickup', 'delivery']",94121,True,True,False
+32,Dumpling Story,x0CorPaOx_2o-Pkwqy-B3Q,37.7893075,-122.43380556906494,"2114 Fillmore St, San Francisco, CA 94115",4.5,290,$$,"('Asian Fusion, Chinese, Noodles',)",[],94115,False,False,False
+33,Fable,reXWH9Wo0ZTOuQsTMNOSxg,37.759958,-122.435089,"558 Castro St, San Francisco, CA 94114",4.1,898,$$,"('New American, Wine Bars, Breakfast & Brunch',)","['pickup', 'delivery']",94114,True,True,False
+34,Mashita Galbi Jjim,-GLxXV8j8qdtJ_-pca3N5w,37.796319071428506,-122.4220672,"2123 Polk St, San Francisco, CA 94109",4.8,50,N/A,"('Asian Fusion, Chicken Wings, Barbeque',)",[],94109,False,False,False
+35,Oraan Thai Eatery,8LFfuBSFK9YfHp1r-jsJEw,37.78141,-122.459837,"3750 Geary Blvd, San Francisco, CA 94118",4.6,113,N/A,"('Thai',)",[],94118,False,False,False
+36,Nepa  Indian Cuisine,y1RfTh6psoa_Ps9yjZqL2Q,37.774382,-122.437986,"507 Divisadero St, San Francisco, CA 94117",4.9,152,$$,"('Himalayan/Nepalese, Indian',)","['pickup', 'restaurant_reservation', 'delivery']",94117,True,True,True
+37,Memento SF,1FSl22I7HM6rJyKC9l4yIw,37.751066336195144,-122.4337981,"1305 Castro St, San Francisco, CA 94114",4.8,69,N/A,"('New American, Cocktail Bars, Breakfast & Brunch',)",[],94114,False,False,False
+38,Farmhouse Kitchen Thai Cuisine,8kck3-K4zYKTJbJko0JlXQ,37.760192883932795,-122.4114188698492,"710 Florida St, San Francisco, CA 94110",4.1,3890,$$,"('Thai, Coffee & Tea, Cocktail Bars',)","['pickup', 'restaurant_reservation', 'delivery']",94110,True,True,True
+39,Dalida,0T1Kc6tUWaG3cPnyiD40Hw,37.800046977658894,-122.45958044459428,"101 Montgomery St, Ste 100, San Francisco, CA 94129",4.5,317,$$$,"('Mediterranean, Turkish, Bars',)",[],94129,False,False,False
+40,Starbelly,J7_-faNq_Ag9qTOlDn81Pw,37.76408650404102,-122.4325853855326,"3583 16th St, San Francisco, CA 94114",3.8,2370,$$,"('New American, Breakfast & Brunch, Cocktail Bars',)","['delivery', 'pickup']",94114,True,True,False
+41,Kothai Republic,s2R3RUJ09eBFvHVIUS4Shg,37.762389,-122.466065,"1398 9th Ave, San Francisco, CA 94122",4.6,318,N/A,"('Asian Fusion, Tapas/Small Plates, Venues & Event Spaces',)","['delivery', 'pickup']",94122,True,True,False
+42,Burma Superstar,eYXwVR4mMAjzkJnm5wneHQ,37.782787322998,-122.462539672852,"309 Clement St, San Francisco, CA 94118",4.2,7685,$$,"('Burmese',)","['pickup', 'delivery']",94118,True,True,False
+43,Nopalito,055dTcfz2AOAFPed_2KjEQ,37.77343530099,-122.438993048014,"306 Broderick St, San Francisco, CA 94117",3.8,2069,$$,"('Mexican',)",['pickup'],94117,True,False,False
+44,Mariposas,9R69QGOfgRlK-t7xczgzyw,37.78386,-122.40483,"825 Mission St, San Francisco, CA 94103",4.5,90,N/A,"('Peruvian, Latin American, Cocktail Bars',)","['restaurant_reservation', 'delivery', 'pickup']",94103,True,True,True
+45,Elena's Mexican Restaurant,Ih7DWOErYaIv6ZXzsHIiEw,37.738345,-122.468176,"255 W Portal Ave, San Francisco, CA 94127",4.0,364,N/A,"('American, Mexican',)",[],94127,False,False,False
+46,Mijoté,w8MW2jeXhOuNgNh8j3AEUA,37.758894,-122.41267626257267,"2400 Harrison St, San Francisco, CA 94110",4.5,155,N/A,"('French',)",[],94110,False,False,False
+47,Hardwood Bar & Smokery,pLBEfh2qKNa_9Z9V84XPRw,37.77047,-122.40472,"680 8th St, Ste 170, San Francisco, CA 94103",4.1,206,$$,"('Sports Bars, Barbeque, American',)","['pickup', 'delivery']",94103,True,True,False
+48,Birba,hmxVC4sJ8-mv2_Gw38fxXg,37.77787,-122.42421,"458 Grove St, San Francisco, CA 94102",4.4,201,$$,"('Wine Bars, New American',)",['delivery'],94102,False,True,False
+49,Bodega,uUifmxOmL8ClHXyRVsmD3Q,37.784837858877935,-122.4093022,"138 Mason St, San Francisco, CA 94102",4.4,652,N/A,"('Vietnamese, Noodles, Cocktail Bars',)",[],94102,False,False,False
+50,Ganji,9adGsRBQkVSqq4digmh6sw,37.786192,-122.429731,"1740 Buchanan St, San Francisco, CA 94115",4.7,145,$$,"('Japanese',)",['restaurant_reservation'],94115,False,False,True
+51,Miller & Lux,N2kNTSbEUkJbgME8dfhGOw,37.76819998383212,-122.38644657401773,"700 Terry A Francois Blvd, San Francisco, CA 94158",4.2,370,$$$$,"('American, Steakhouses, Seafood',)",[],94158,False,False,False
+52,Dumpling Kitchen Noe Valley,hNMEYUD9ALOFrrEX5K5bzA,37.751464269196,-122.4300389,"3913 24th St, San Francisco, CA 94114",4.6,64,N/A,"('Shanghainese, Asian Fusion, Szechuan',)","['pickup', 'delivery']",94114,True,True,False
+53,Lily,AtFGQccBpgEZzsy9V1330Q,37.782815,-122.461671,"225 Clement St, San Francisco, CA 94118",4.3,494,N/A,"('Vietnamese',)","['pickup', 'delivery']",94118,True,True,False
+54,The Italian Homemade Company,K9XVDlPNhrrSVEJN7uWqJQ,37.801752,-122.411851,"716 Columbus Ave, San Francisco, CA 94133",4.3,2010,$$,"('Italian, Pasta Shops, International Grocery',)","['pickup', 'delivery']",94133,True,True,False
+55,Roma Antica,B09WOy0W83Od-Xw4xEXxog,37.79989,-122.4408,"3242 Scott St, San Francisco, CA 94123",4.5,1572,$$,"('Pizza, Italian, Pasta Shops',)","['delivery', 'pickup']",94123,True,True,False
+56,San Tung,M0JTO3oyu6gxh1mfFjU-dA,37.76378306790313,-122.46900735179602,"1031 Irving St, San Francisco, CA 94122",4.1,8348,$$,"('Chinese, Chicken Wings, Noodles',)",['pickup'],94122,True,False,False
+57,Bettola,oK6DQM2ztdNwMAyJqGWZpg,37.78284,-122.463137,"343 Clement St, San Francisco, CA 94118",4.3,39,N/A,"('Italian',)",[],94118,False,False,False
+58,M Pot,_KIH-PSiT6lyX2MnFcS3NA,37.78291543753223,-122.4682742,"832 Clement St, San Francisco, CA 94118",4.8,33,$$,"('Chinese, Hot Pot, Soup',)",[],94118,False,False,False
+59,The Italian Homemade Company,FRpULkKmvD9caSKabQzq5w,37.79742,-122.43097,"1919 Union St, San Francisco, CA 94123",4.3,1271,$$,"('Italian, Pasta Shops, Desserts',)","['pickup', 'delivery']",94123,True,True,False
+60,Paprika,M53h93nLRlBsoXmi19jCBQ,37.752362,-122.419099,"3324 24th St, San Francisco, CA 94110",4.4,456,$$,"('Czech, German, Hungarian',)","['restaurant_reservation', 'delivery', 'pickup']",94110,True,True,True
+61,C.Q. Noodles,EQpVnmoC_itgVQaaAYKNtg,37.78219994794561,-122.48209291576292,"2121 Clement St, San Francisco, CA 94121",4.4,217,$$,"('Chinese, Noodles, Soup',)","['restaurant_reservation', 'delivery', 'pickup']",94121,True,True,True
+62,Oodle Yunnan Rice Noodle,dJv1oV2y0Vzc0-Nk9Rs63w,37.77600463025901,-122.49563498834335,"3420 Balboa St, San Francisco, CA 94121",4.6,183,$$,"('Chinese, Noodles, Soup',)","['pickup', 'delivery']",94121,True,True,False
+63,Dumpling Home,kvrQecqdGvnuVICMstZJmA,37.775830550017254,-122.4226361,"298 Gough St, San Francisco, CA 94102",4.5,1668,$$,"('Dim Sum, Noodles, Asian Fusion',)","['delivery', 'pickup']",94102,True,True,False
+64,Original Joe's,GtKxIGU6LJu14UErdNulmQ,37.80021,-122.40945,"601 Union St, San Francisco, CA 94133",4.1,2225,$$$,"('Italian, Steakhouses, Breakfast & Brunch',)","['pickup', 'delivery']",94133,True,True,False
+65,Pasta Panino,GUMD4UYvQ01RLcvQP74A-g,37.761014,-122.435911,"4150 18th St, San Francisco, CA 94114",4.5,109,$$,"('Italian, Pasta Shops, Sandwiches',)","['pickup', 'delivery']",94114,True,True,False
+66,Nara Restaurant & Sake Bar,cL0q9S4bqwpbAN9ZKh-Zeg,37.77216,-122.43086,"518 Haight St, San Francisco, CA 94117",4.6,2094,$$,"('Japanese, Sushi Bars',)","['delivery', 'pickup']",94117,True,True,False
+67,STOA,AJMs_qSXFOIKgu7xQsLMsA,37.77154,-122.43386,"701 Haight St, San Francisco, CA 94117",4.4,33,N/A,"('Cocktail Bars, Tapas/Small Plates',)",[],94117,False,False,False
+68,NOVY Restaurant,_znCP80YosgWCZu-xkqk5w,37.75153,-122.43212,"4000 24th St, San Francisco, CA 94114",4.1,590,$$,"('Mediterranean, Greek, Breakfast & Brunch',)","['pickup', 'delivery']",94114,True,True,False
+69,Surisan,i09UMzccKgyLwGYKDVP28w,37.80678,-122.41756,"505 Beach St, San Francisco, CA 94133",4.3,3703,$$,"('Korean, New American, Breakfast & Brunch',)","['restaurant_reservation', 'delivery', 'pickup']",94133,True,True,True
+70,Abrazo,zkVm2lMNdKWfbE4Uo1tMeA,37.7994,-122.41888,"2000 Hyde St, San Francisco, CA 94109",4.5,212,$$$,"('Spanish, New American, Seafood',)","['restaurant_reservation', 'delivery']",94109,False,True,True
+71,Yakitori Edomasa,9w8ghr8PrAyMj75fEOsElA,37.78522,-122.43157,"1581 Webster St, Ste 270, San Francisco, CA 94115",4.1,185,$$$,"('Japanese',)","['restaurant_reservation', 'delivery', 'pickup']",94115,True,True,True
+72,Coqueta,xv8dq_jBNfQkHeX2wJGlAg,37.798588,-122.396639,"The Embarcadero, Pier 5, San Francisco, CA 94111",4.0,2628,$$$,"('Spanish, Tapas/Small Plates',)","['pickup', 'delivery']",94111,True,True,False
+73,The Morris,KqGOvG1m5jgDL-pKGXEoNQ,37.762967,-122.40856,"2501 Mariposa St, San Francisco, CA 94110",4.5,426,$$$,"('New American, Cocktail Bars, Desserts',)",['delivery'],94110,False,True,False
+74,Fish In The Box,A_2m0mcKEqOJ1XsqUbzUIg,37.77384,-122.44583,"800 Masonic Ave, San Francisco, CA 94117",4.6,363,$$,"('Poke, Sushi Bars, Seafood',)","['pickup', 'delivery']",94117,True,True,False
+75,Hog Island Oyster,Xg-FyjVKAN70LO4u4Z1ozg,37.7947758,-122.3921851,"1 Ferry Bldg, Ste 11, San Francisco, CA 94111",4.4,7291,$$,"('Seafood, Seafood Markets, Cocktail Bars',)",['pickup'],94111,True,False,False
+76,Kokkari Estiatorio,PsY5DMHxa5iNX_nX0T-qPA,37.796996,-122.399661,"200 Jackson St, San Francisco, CA 94111",4.4,5317,$$$,"('Greek, Mediterranean',)","['pickup', 'delivery']",94111,True,True,False
+77,Copra,dLkFqri9JEM3CoeMjAah6w,37.78538352838357,-122.4327894,"1700 Fillmore St, San Francisco, CA 94115",4.1,529,$$$,"('Indian',)",[],94115,False,False,False
+78,The Richmond,1KbZaqEdZkn6LHlA55M64g,37.77702,-122.46534,"615 Balboa St, San Francisco, CA 94118",4.5,783,$$$,"('New American',)",['pickup'],94118,True,False,False
+79,Fermentation Lab,kLxPWEH56lLeXoNFJyS8HA,37.78575,-122.4301,"1700A Post St, San Francisco, CA 94115",4.5,117,$$,"('Cocktail Bars, Seafood, Asian Fusion',)",[],94115,False,False,False
+80,Dumpling Kitchen,q7PEtlrwVwHrQv0M6Mzwvw,37.7601664062955,-122.4351906,"544 Castro St, San Francisco, CA 94114",4.3,138,$$,"('Dim Sum, Noodles',)","['delivery', 'pickup']",94114,True,True,False
+81,Trestle,jcFf2ZnJYL0nWCdIpqiA-g,37.79619567013229,-122.40454157055215,"531 Jackson St, San Francisco, CA 94133",4.4,1219,$$$,"('New American, Desserts',)",[],94133,False,False,False
+82,Barcha,5D--FJXQHdC3kZWYm2GREg,37.7909966558218,-122.397482693195,"28 Fremont St, San Francisco, CA 94105",4.1,828,$$$,"('Mediterranean, Tapas/Small Plates, Cocktail Bars',)","['delivery', 'pickup']",94105,True,True,False
+83,Limoncello,2hGIxgprREdBieylltWaRQ,37.7873184067081,-122.423591369312,"1400 Sutter St, San Francisco, CA 94109",4.8,1786,$$,"('Sandwiches, Delis, Beer, Wine & Spirits',)","['delivery', 'pickup']",94109,True,True,False
+84,Savor,6YuJE0vjUpIzYckRMnzy0g,37.764084,-122.46228,"401 Irving St, San Francisco, CA 94122",4.7,238,$$,"('Mediterranean, Vegetarian, Tapas/Small Plates',)","['delivery', 'restaurant_reservation', 'pickup']",94122,True,True,True
+85,The Patio,VBWSJA_ljUoqB0voZFbJFQ,37.79976,-122.44082,"3232 Scott St, San Francisco, CA 94123",4.6,179,N/A,"('Wine Bars, New American, Venues & Event Spaces',)","['delivery', 'pickup']",94123,True,True,False
+86,Um Ma,9Z9EETl8fZIP4s9KOHr5kg,37.765498241972274,-122.4661957,"1220 9th Ave, San Francisco, CA 94122",3.8,796,$$,"('Korean, Wine Bars, Chicken Wings',)","['delivery', 'pickup']",94122,True,True,False
+87,Suppenküche,DGyoVB9PdI9_jw0CNi_OPg,37.7762603759766,-122.426391601562,"525 Laguna St, San Francisco, CA 94102",4.1,3374,$$,"('German, Pretzels, Beer, Wine & Spirits',)","['delivery', 'restaurant_reservation', 'pickup']",94102,True,True,True
+88,ILCHA,0lMmP2cPqVNi0EvlKIct_g,37.79948,-122.43681,"2151 Lombard St, San Francisco, CA 94123",4.4,329,$$$,"('Korean, Bars',)",[],94123,False,False,False
+89,Bella Trattoria,msT3LrLB4fhN04HYHuFsew,37.78136,-122.46092107729817,"3854 Geary Blvd, San Francisco, CA 94118",4.3,1973,$$,"('Italian, Bars, Pasta Shops',)","['delivery', 'pickup']",94118,True,True,False
+90,Unco Frank’s,RmiAHDQ9z-qzvA7gcLsUZQ,37.78284885844072,-122.46411696680588,"443 Clement St, San Francisco, CA 94118",4.5,101,$$,"('Hawaiian',)","['delivery', 'pickup']",94118,True,True,False
+91,SHOWA Le Gourmet Tonkatsu,8ZVt-g6OROC5Mh_cPWsOqw,37.772539,-122.416598,"1550 Howard St, San Francisco, CA 94103",5.0,30,N/A,"('Japanese',)",[],94103,False,False,False
+92,Bansang,_AJd_AyHNYLNiifvLhEDNg,37.78406,-122.43256,"1560 Fillmore St, San Francisco, CA 94115",4.2,473,N/A,"('Korean, Tapas/Small Plates, Asian Fusion',)",[],94115,False,False,False
+93,Todo El Dia,Xw2MYma2rl05i7udCHFmEQ,37.75130269094932,-122.433258,"4063 24th St, San Francisco, CA 94114",4.4,26,$$,"('Mexican, Juice Bars & Smoothies, Breakfast & Brunch',)",[],94114,False,False,False
+94,Cafe Okawari,Jpxv-URBpIvcu0mE5B6S3g,37.77826,-122.39388,"236 Townsend St, San Francisco, CA 94107",4.5,433,$$,"('Japanese, Cafes',)","['delivery', 'pickup']",94107,True,True,False
+95,Lapisara Eatery,0mNzmmh1mrdh5Cpg2QUBiw,37.78785129168795,-122.41323060347364,"698 Post St, San Francisco, CA 94109",4.6,1712,$$,"('Breakfast & Brunch, Burgers, Thai',)","['delivery', 'restaurant_reservation', 'pickup']",94109,True,True,True
+96,New Burma,TJZLyTUqtwgsXS439U641w,37.77039,-122.40269,"659 Townsend St, San Francisco, CA 94107",4.5,129,$$,"('Burmese, Vegetarian',)","['delivery', 'pickup']",94107,True,True,False
+97,Moku Yakitori-Ya,ya-X-WMp0AJg_o0DccJ1VQ,37.78256890000001,-122.4664414,"312 8th Ave, San Francisco, CA 94118",4.3,142,$$,"('Izakaya, Tapas/Small Plates',)",[],94118,False,False,False
+98,Cotogna,HVJdo4f_6MxkM_1aCAK3NA,37.7975,-122.40336,"490 Pacific Ave, San Francisco, CA 94133",4.1,2078,$$$,"('Italian',)",['delivery'],94133,False,True,False
+99,opa cafe,OVLexCW4wdYDUc_Oc4NfVw,37.783969,-122.441505,"2401 Post St, San Francisco, CA 94115",4.6,585,$$,"('Mediterranean, Sandwiches, Salad',)","['delivery', 'pickup']",94115,True,True,False
+100,Nari,IOQE1WdjzYs4PL5YSOh6xg,37.785429928840266,-122.428277,"1625 Post St, San Francisco, CA 94115",4.0,505,$$$,"('Thai, Wine Bars, Cocktail Bars',)",['delivery'],94115,False,True,False
+101,Hulu Wa China Bistro,2aW4J6wnsJ2vgcYLRoo5og,37.762933,-122.434141,"3970 17th St, San Francisco, CA 94114",4.8,36,$$,"('Chinese, Noodles',)","['delivery', 'pickup']",94114,True,True,False
+102,Mezze and Mooore,6Ua1XlsCWR9eBXBLOM-kMw,37.76815246219715,-122.424627,"198 Guerrero St, San Francisco, CA 94103",4.7,219,$$,"('Mediterranean, Lebanese',)","['delivery', 'pickup']",94103,True,True,False
+103,Birdsong,XVPiXV_TPivnr9szB5kc-A,37.7793175,-122.4105235,"1085 Mission St, San Francisco, CA 94103",4.4,443,$$$$,"('New American',)",[],94103,False,False,False
+104,Burma Love - Downtown,Hq5ZJEcEViFYMy3vfN8WTA,37.782909,-122.40786,"8 Mint Plz, San Francisco, CA 94103",4.2,542,$$,"('Burmese, Cocktail Bars, Seafood',)",['delivery'],94103,False,True,False
+105,Chez Maman West,9hUYiiyPe0QOu8Oezq_yqQ,37.776988,-122.423164,"401 Gough St, San Francisco, CA 94102",4.1,1615,$$,"('French, Burgers',)","['delivery', 'pickup']",94102,True,True,False
+106,Rise Over Run,9AeBzGI0OOXfM4StDpwwGQ,37.783213,-122.409648,"33 Turk St, San Francisco, CA 94102",4.1,156,N/A,"('New American, Cocktail Bars, Breakfast & Brunch',)",[],94102,False,False,False
+107,Okaeri Japanese Bistro,l69Z6OMNKxrwA69IubLS5g,37.758432,-122.419574,"3515 20th St, San Francisco, CA 94110",4.4,342,$$,"('Sushi Bars, Japanese',)",[],94110,False,False,False
+108,State Bird Provisions,QZQGRJZ4bZCmNoXjs3z1XQ,37.78374,-122.433005,"1529 Fillmore St, San Francisco, CA 94115",4.2,3336,$$$$,"('Tapas/Small Plates, New American, Desserts',)",['delivery'],94115,False,True,False
+109,California Fish Market Restaurant,oa6ZaLdQNzZHP7--gxBh2g,37.7998,-122.40832,"550 Green St, San Francisco, CA 94133",4.4,703,$$,"('Seafood, Fish & Chips, Italian',)","['delivery', 'restaurant_reservation', 'pickup']",94133,True,True,True
+110,Chez Maman East,UTVDbZv-qiHU06sDkoel3g,37.762463,-122.396712,"1401 18th St, San Francisco, CA 94107",4.4,2473,$$,"('French, Burgers, Creperies',)","['delivery', 'pickup']",94107,True,True,False
+111,Sikdang Woori,WYPTIId3GSr-TZuuIsSEYw,37.783566,-122.432434,"1506 Fillmore St, San Francisco, CA 94115",4.5,63,N/A,"('Korean',)",[],94115,False,False,False
+112,The Public Izakaya,4jqo3BvBEiNrvLKJW41Qbg,37.78783646253088,-122.413599,"700 Post St, San Francisco, CA 94109",4.3,503,$$,"('Izakaya, Sushi Bars, Ramen',)",[],94109,False,False,False
+113,Mamahuhu,8MmM55oRyNsPX6J01NsDkA,37.7513197,-122.4315852,"3991 24th St, San Francisco, CA 94114",4.0,127,N/A,"('Asian Fusion',)",[],94114,False,False,False
+114,Lark,LjVlsV9tKGnv7e4Iyt9c5Q,37.761243,-122.434248,"4068 18th St, San Francisco, CA 94114",4.1,357,$$,"('Mediterranean, Greek, Cocktail Bars',)",['delivery'],94114,False,True,False
+115,The Laundromat,SUdC4LIL3huirbbBkHrhfw,37.77542873995666,-122.49884228441336,"3725 Balboa St, San Francisco, CA 94121",4.5,374,$$,"('Pizza, Bagels, Beer Bar',)",[],94121,False,False,False
+116,Shelby's Rooftop Lounge,6N3nfRgvfspLCRRBOxefZw,37.7823865830739,-122.40209709852932,"250 4th St, San Francisco, CA 94103",4.2,224,$$$,"('Lounges, New American',)",[],94103,False,False,False
+117,The Parthenon,yyxm5EW2ZYws27_TdutOJQ,37.78927924982757,-122.4099596,"582 Sutter St, San Francisco, CA 94102",5.0,15,N/A,"('Greek, Mediterranean, Turkish',)","['delivery', 'pickup']",94102,True,True,False
+118,Dumpling House,XAYwAF_83becwNnSJDFkpA,37.763552,-122.432762,"335 Noe St, San Francisco, CA 94114",4.3,525,$$,"('Dim Sum, Asian Fusion',)","['delivery', 'pickup']",94114,True,True,False
+119,Dabao Singapore,XFUQWh46_gISC4jMHlCNmw,37.750911,-122.388126,"1661 Tennessee St, Ste 2k, San Francisco, CA 94107",4.8,87,N/A,"('Singaporean, Desserts, Caterers',)",[],94107,False,False,False
+120,Base Camp,HlDkf_7TxPLaPn882N1Nxw,37.75873,-122.41502,"2400 Folsom St, San Francisco, CA 94110",4.5,342,$$,"('Himalayan/Nepalese',)","['delivery', 'pickup']",94110,True,True,False
+121,Taishoken San Francisco,ltjuu-CHvGHUEyj-KtjPhA,37.76221943510913,-122.4215061196633,"665 Valencia St, San Francisco, CA 94110",4.5,414,$$,"('Ramen, Noodles, Izakaya',)","['pickup', 'restaurant_reservation', 'delivery']",94110,True,True,True
+122,Sonamu Korean Restaurant,xOLWTlk1jM4cJtyA8NkSfA,37.78058,-122.480882,"5716 Geary Blvd, San Francisco, CA 94121",4.5,96,$$,"('Korean',)",['restaurant_reservation'],94121,False,False,True
+123,Kin Khao,kqk5BoCJU59MC9fH0IB4wQ,37.78524,-122.40933,"55 Cyril Magnin St, San Francisco, CA 94102",3.9,2529,$$$,"('Thai',)",['delivery'],94102,False,True,False
+124,The Rabbit Hole,flVORa_cFVDFGMZpdcRSVw,37.74119,-122.42303,"3472 Mission St, San Francisco, CA 94110",4.2,57,$$,"('Cocktail Bars, Taiwanese, Burgers',)",[],94110,False,False,False
+125,Cote Ouest Bistro,RIQUwLeZGXaYXs95igbL3g,37.798332,-122.446101,"2953 Baker St, San Francisco, CA 94123",4.7,244,N/A,"('French',)",[],94123,False,False,False
+126,Zazie,gqVl3RprESEqkIPeJH0yOg,37.7652402,-122.4500965,"941 Cole St, San Francisco, CA 94117",4.2,5334,$$,"('Breakfast & Brunch, French, Wine Bars',)","['restaurant_reservation', 'pickup']",94117,True,False,True
+127,La Sarrasine,qcTW3btfGVVnQQ3DG3KwdQ,37.775244759082085,-122.4380604766232,"607 Divisadero St, San Francisco, CA 94117",4.7,101,$$,"('Creperies, French, Mediterranean',)","['pickup', 'delivery']",94117,True,True,False
+128,Frances,dMlsQsPU8Y_oiPYC5hHi2A,37.762866,-122.432244,"3870 17th St, San Francisco, CA 94114",4.3,1592,$$$,"('New American, Wine Bars',)",['pickup'],94114,True,False,False
+129,Woodhouse Fish,PFk6k_hEGG0n6_FAJSm9EQ,37.78742,-122.43327,"1914 Fillmore St, San Francisco, CA 94115",4.1,2647,$$,"('Seafood, New American',)",['delivery'],94115,False,True,False
+130,RT Rotisserie,jRbLvmBGRuNQwsZdV_LWyA,37.773141,-122.438884,"302 Broderick St, San Francisco, CA 94117",4.3,191,$$,"('Bars, Desserts, Sandwiches',)",[],94117,False,False,False
+131,Burma Love,7tsN9N9mhfJRNTe37pLFMg,37.76961,-122.42205,"211 Valencia St, San Francisco, CA 94103",4.1,1792,$$,"('Burmese, Cocktail Bars, Seafood',)","['restaurant_reservation', 'pickup']",94103,True,False,True
+132,PoBoys Kitchen,8jW9a4WCnMsQSyT0x1MI8Q,37.7623025861537,-122.397311757684,"317 Connecticut St, San Francisco, CA 94107",4.6,272,$$,"('Southern, American, Cajun/Creole',)","['pickup', 'delivery']",94107,True,True,False
+133,Brenda's French Soul Food,lJAGnYzku5zSaLnQ_T6_GQ,37.78291531984934,-122.4188995000186,"652 Polk St, San Francisco, CA 94102",4.2,12399,$$,"('Breakfast & Brunch, Southern, Cajun/Creole',)",['pickup'],94102,True,False,False
+134,Ollei,2rOfaaXmIdRf2J0Qd5oyMg,37.796378,-122.422173,"2127 Polk St, San Francisco, CA 94109",4.6,224,$$,"('Korean, Comfort Food, Asian Fusion',)","['pickup', 'delivery']",94109,True,True,False
+135,Minnie Bell's Soul Movement,HEzzsy7TJXbz8ckn6g2Jdg,37.782061,-122.4327,"1375 Fillmore St, San Francisco, CA 94115",4.6,58,N/A,"('Soul Food, Chicken Wings, Southern',)",[],94115,False,False,False
+136,Yuji,6L6kz5GVJqJIyM0SuWyPDQ,37.7857557,-122.4301162,"1700 post st, Unit K, San Francisco, CA 94115",4.8,62,N/A,"('Japanese',)",[],94115,False,False,False
+137,Hook Fish,Y3nxgEoxwFJ5miacMzYNXg,37.76237,-122.50685,"4542 Irving St, San Francisco, CA 94122",4.3,1268,$$,"('Seafood, Tacos',)",['delivery'],94122,False,True,False
+138,Presidio Kebab,z4g4bZPR-Z8bFlwv9APl2w,37.788081,-122.446806,"3277 Sacramento St, San Francisco, CA 94115",4.7,342,$$,"('Mediterranean, Kebab, Breakfast & Brunch',)","['pickup', 'delivery']",94115,True,True,False
+139,Radhaus,cvASRMOEE1O3dTVqwFdRyA,37.806758,-122.431458,"2 Marina Blvd, Bldg A, San Francisco, CA 94123",4.2,706,$$$,"('German, Gastropubs, Breakfast & Brunch',)","['restaurant_reservation', 'delivery']",94123,False,True,True
+140,Dynasty Dumpling ,VtXe2cPprvvz84_x9zB8kA,37.788291,-122.440186,"2786 California St, San Francisco, CA 94115",4.7,166,$$,"('Dim Sum, Noodles',)","['pickup', 'restaurant_reservation', 'delivery']",94115,True,True,True
+141,Bistro Central Parc,W97siDhQbWIVa0MEpcq9iA,37.775023,-122.44427,"560 Central Ave, San Francisco, CA 94117",4.3,1142,$$,"('French, Breakfast & Brunch, Italian',)","['pickup', 'restaurant_reservation', 'delivery']",94117,True,True,True
+142,Cole Valley Tavern,t_fps32HkkVC09bwlujsGg,37.76575033062889,-122.4497285654766,"900 Cole St, San Francisco, CA 94117",4.1,111,$$,"('Cocktail Bars, Burgers, Fish & Chips',)","['pickup', 'delivery']",94117,True,True,False
+143,Taksim,_y_qSPhH--Ji5hT-YOPCfA,37.778656440217155,-122.3973359018373,"564 4th St, San Francisco, CA 94107",4.4,185,N/A,"('Mediterranean, Wine Bars, Venues & Event Spaces',)","['pickup', 'delivery']",94107,True,True,False
+144,Troya,o4x29HYKvEUf7Regrn-J9g,37.7893743915288,-122.434076070785,"2125 Fillmore St, San Francisco, CA 94115",4.0,782,$$,"('Mediterranean, Turkish',)","['delivery', 'pickup']",94115,True,True,False
+145,Gary Danko,WavvLdfdP6g8aZTtbBQHTw,37.805823482811675,-122.42060564460564,"800 N Point St, San Francisco, CA 94109",4.5,5988,$$$$,"('New American, French, Wine Bars',)",['pickup'],94109,True,False,False
+146,Taniku Izakaya,ROuXk09CUqbuby0BYELaRQ,37.785589,-122.420296,"1035 Geary St, San Francisco, CA 94109",4.7,206,$$,"('Izakaya, Ramen, Noodles',)","['pickup', 'delivery']",94109,True,True,False
+147,The Crew,tYU0M2jW7FIjzRHJ3nAUVw,37.7543406605787,-122.478169364418,"1330 Noriega St, San Francisco, CA 94122",3.9,618,$$,"('Korean, Barbeque, Asian Fusion',)",['delivery'],94122,False,True,False
+148,DACHA Kitchen & Bar,80k5mTDLv1Qc4PALrwKpoA,37.787733,-122.418205,"1085 Sutter St, San Francisco, CA 94109",4.9,81,N/A,"('Modern European, Breakfast & Brunch, Cocktail Bars',)",[],94109,False,False,False
+149,Noodle in a Haystack,ATj-8RmOJln9UnCEuraEzw,37.78066412799114,-122.46872181182351,"4601 Geary Blvd, San Francisco, CA 94118",4.9,81,$$$$,"('Ramen, New American',)",[],94118,False,False,False
+150,Scoma's Restaurant,jqEpBbf_qNfWuz_GBkwCjw,37.80894309727483,-122.41843625625316,"1965 Al Scoma Way, San Francisco, CA 94133",4.1,4691,$$$,"('Seafood, Bars',)","['pickup', 'delivery']",94133,True,True,False
+151,Wildseed,cbkbw0-QUwRZWV49JpDCWA,37.79768,-122.43245,"2000 Union St, San Francisco, CA 94123",4.5,1576,$$,"('Vegan, Cocktail Bars',)",['delivery'],94123,False,True,False
+152,Hed verythai,amyteTseYTGbk_7nd4EoDA,37.79041710774593,-122.4034643,"88 Hardie Pl, San Francisco, CA 94108",4.4,351,$$,"('Thai',)",[],94108,False,False,False
+153,Dash Japanese Tapas & Sushi,RUgAfwdOtDdu1m4COkz7sA,37.75153071507041,-122.4361737,"737 Diamond St, San Francisco, CA 94114",4.5,55,N/A,"('Sushi Bars, Japanese, Tapas Bars',)","['pickup', 'delivery']",94114,True,True,False
+154,Nojo Ramen Tavern,1IqqA8pcuCIWJtuKfHwU8g,37.77669,-122.42151,"231 Franklin St, San Francisco, CA 94102",4.2,1286,$$,"('Ramen, Izakaya',)","['pickup', 'delivery']",94102,True,True,False
+155,Parada 22,TlBFKt2N2eSEBpN-UZmDBw,37.769217,-122.4521212,"1805 Haight St, San Francisco, CA 94117",4.2,1502,$$,"('Latin American, Puerto Rican, Breakfast & Brunch',)","['pickup', 'delivery']",94117,True,True,False
+156,Anchor Oyster Bar,ZDvIMjJ-7I0561ckM4pAeA,37.759701649632525,-122.43476121686464,"579 Castro St, San Francisco, CA 94114",4.5,1706,$$,"('Seafood',)","['pickup', 'delivery']",94114,True,True,False
+157,Bocconcino,zREcSPXvizDj-79lSw1MSQ,37.79982,-122.40783,"516 Green St, San Francisco, CA 94133",4.6,128,N/A,"('Italian',)",[],94133,False,False,False
+158,Dumpling Baby China Bistro,L1JU0hDv1k2Od3s9Glp-IQ,37.781031,-122.459886,"3751 Geary Blvd, San Francisco, CA 94118",4.3,233,N/A,"('Chinese, Asian Fusion, Noodles',)",[],94118,False,False,False
+159,Betty Lou's Seafood and Grill,OH3GLEJvGhbER4d3xMuPIA,37.79825,-122.407014,"318 Columbus Ave, San Francisco, CA 94133",4.5,1111,$$,"('Seafood, Steakhouses, Bars',)","['pickup', 'restaurant_reservation', 'delivery']",94133,True,True,True
+160,Bay Of Burma,TQMGv8NrzpXfwes1bhkHKw,37.77571,-122.40974,"1174 Folsom St, San Francisco, CA 94103",4.7,59,$$,"('Burmese, Caterers',)","['pickup', 'delivery']",94103,True,True,False
+161,High Horse,zsrBtX1mIzjEbIxiL6TTtQ,37.79573,-122.40284,"582 Washington St, San Francisco, CA 94111",4.5,80,$$,"('New American, Cocktail Bars',)",[],94111,False,False,False
+162,Ragazza,9acPdpguULGPbChPwpS3aw,37.772476,-122.437473,"311 Divisadero St, San Francisco, CA 94117",4.1,792,$$,"('Italian, Pizza',)",['delivery'],94117,False,True,False
+163,Hillstone,_D1Ev_zTZs5ijHkleK6C2w,37.8059931,-122.40514635275838,"1800 Montgomery St, San Francisco, CA 94111",4.0,2548,$$$,"('New American, Wine Bars',)",['pickup'],94111,True,False,False
+164,Saucy Asian,rCvlMbXLuZUTw5vNQzqlrQ,37.76261,-122.43094,"3801 17th St, San Francisco, CA 94114",4.3,465,$$,"('Korean, Asian Fusion, Pan Asian',)","['pickup', 'delivery']",94114,True,True,False
+165,Gyu-Kaku Japanese BBQ,c6aMZg8kxlNC5fQ49ZcBQA,37.782098,-122.403773,"855 Howard St, San Francisco, CA 94103",3.9,323,$$$,"('Japanese, Asian Fusion, Barbeque',)","['pickup', 'delivery']",94103,True,True,False
+166,Sorella,fW-uLr-uzr3lhZd8xxcVbQ,37.79318163953876,-122.42106940238784,"1760 Polk St, San Francisco, CA 94109",4.3,247,$$$,"('Italian, Wine Bars, Cocktail Bars',)",[],94109,False,False,False
+167,LaoTable,VdxJdMX53XZYNZvZlr96HA,37.78752,-122.39872,"149 2nd St, San Francisco, CA 94105",4.0,1608,$$,"('Laotian, Thai',)","['pickup', 'delivery', 'restaurant_reservation']",94105,True,True,True
+168,Little Original Joe’s,bwBIIsyJxDSPHXzDPNVZ0w,37.80007651069674,-122.44131790345232,"2301 Chestnut St, San Francisco, CA 94123",4.2,96,N/A,"('Italian, Pizza, Sandwiches',)",[],94123,False,False,False
+169,The Italian Homemade Company,c9VZtF34xQBdazi8k-YIMA,37.774414,-122.420937,"1 Franklin St, San Francisco, CA 94102",3.8,374,$$,"('Italian, Desserts, Pasta Shops',)","['pickup', 'delivery']",94102,True,True,False
+170,Pink Onion,IxDRIBkKtP-f24sr5zHAhQ,37.76873,-122.414857,"64 14th St, San Francisco, CA 94103",4.6,1080,$$,"('Pizza, Italian, Gastropubs',)","['pickup', 'delivery', 'restaurant_reservation']",94103,True,True,True
+171,MuuKaTa6395 Thai Charcoal BBQ,WrPtXi4ooNolOC4OQA-pZg,37.78069,-122.46462,"4217 Geary Blvd, San Francisco, CA 94118",4.7,419,N/A,"('Thai',)",[],94118,False,False,False
+172,Souvla,kFgjHGp-cTUK5uPaSJOORA,37.77643,-122.425,"517 Hayes St, San Francisco, CA 94102",4.1,1795,$$,"('Greek, Mediterranean',)",['delivery'],94102,False,True,False
+173,Bubu,UUWJMsu_h_gocMSnOoeSgQ,37.788694,-122.434195,"2417 California St, San Francisco, CA 94115",4.3,75,N/A,"('Sushi Bars',)",['restaurant_reservation'],94115,False,False,True
+174,Ko,321Vyzv5ESnsgb0WYN18dA,37.762001,-122.419166,"2193 Mission St, San Francisco, CA 94110",4.0,112,N/A,"('Japanese, Sushi Bars, Buffets',)",[],94110,False,False,False
+175,Noe Indian Cuisine,-YjAij8BA3JgwIA9QWR6Tg,37.751401,-122.435589,"4166 24th St, San Francisco, CA 94114",4.8,165,$$,"('Indian, Himalayan/Nepalese, Beverage Store',)","['pickup', 'delivery']",94114,True,True,False
+176,Causwells,DL-2iaugPoULjvZ6pyNRAQ,37.8001342713833,-122.441983893514,"2346 Chestnut St, San Francisco, CA 94123",4.2,1089,$$,"('New American, Burgers, Breakfast & Brunch',)",['delivery'],94123,False,True,False
+177,Sisterita,THpTY0X_xwRzUL7wYD6dDg,37.793966,-122.404206,"669 Commercial St, San Francisco, CA 94111",4.6,608,$$,"('Breakfast & Brunch, New American, Thai',)","['pickup', 'delivery']",94111,True,True,False
+178,Georgian Cheese Boat,aRQpHYCsgzyCMfMYgtKvog,37.7983666,-122.40710947283466,"1224 Grant Ave, San Francisco, CA 94133",4.6,132,$$,"('Georgian',)","['pickup', 'delivery']",94133,True,True,False
+179,a Mano,XhJ6ZYagcWNHpJ1H1KvNlQ,37.776963880538,-122.423868469312,"450 Hayes St, San Francisco, CA 94102",4.0,1737,$$$,"('Italian, Cocktail Bars, Pizza',)",['delivery'],94102,False,True,False
+180,Mattina,KdH4w6BAc9ckVNZpyd4xWg,37.787223387923554,-122.4341518,"2232 Bush St, San Francisco, CA 94115",3.9,101,N/A,"('Italian, Coffee & Tea, Breakfast & Brunch',)",[],94115,False,False,False
+181,Fiorella - Sunset,0wqsFH-Z_Chg3O6N-d0PAg,37.76515,-122.46605,"1240 9th Ave, San Francisco, CA 94122",4.2,363,$$$,"('Italian, Pizza, Cocktail Bars',)","['pickup', 'delivery']",94122,True,True,False
+182,Four Chairs,jYSVfNGkkO9SOdYmcLot_w,37.744422,-122.420981,"3282 Mission St, San Francisco, CA 94110",4.3,643,$$,"('Breakfast & Brunch',)","['pickup', 'delivery', 'restaurant_reservation']",94110,True,True,True
+183,Willkommen,v6iAL-bM8rjkL1E7jIItXw,37.7662780850621,-122.430849708617,"2198 Market St, San Francisco, CA 94114",4.1,265,$$,"('German, Breweries, Gluten-Free',)","['pickup', 'delivery']",94114,True,True,False
+184,Piccolo Forno,o43B4DnnQbvkdDK6AVafQg,37.8013699308642,-122.411981038749,"725 Columbus Ave, San Francisco, CA 94133",4.6,987,$$,"('Pizza, Italian',)","['pickup', 'delivery']",94133,True,True,False
+185,Destapas,igwR5eEzfxFkL_56cG0jOw,37.7531052,-122.4068629,"2708 24th St, San Francisco, CA 94110",4.6,168,$$$,"('Spanish, Tapas Bars, Wine Bars',)","['pickup', 'delivery']",94110,True,True,False
+186,Kitchen Story,XQLmEdXoMzOpffwoFaBtaQ,37.764290777795395,-122.43072410226956,"3499 16th St, San Francisco, CA 94114",4.1,4191,$$,"('Breakfast & Brunch, Asian Fusion, New American',)","['pickup', 'restaurant_reservation']",94114,True,False,True
+187,ABACÁ,u2KkG0ucvooOdwgIgZPSlA,37.80673720176911,-122.41693737401872,"2700 Jones St, San Francisco, CA 94133",4.0,671,$$$,"('Filipino',)",[],94133,False,False,False
+188,Buddy,wMLCvjhT9PQHcRHQYeCHow,37.7554,-122.41693,"3115 22nd St, San Francisco, CA 94110",4.5,100,N/A,"('Bars, Cafes, Coffee & Tea',)",[],94110,False,False,False
+189,Teakwood,bfA09fkdKIZhkwCi0_iYGg,37.777726,-122.422991,"399 Grove St, San Francisco, CA 94102",4.0,164,$$$,"('Burmese',)",[],94102,False,False,False
+190,Gott's Roadside,0Ix0_r15BNkXqz4DsXF9dQ,37.76854388956767,-122.3885514138246,"151 Warriors Way, Ste 102, San Francisco, CA 94158",4.0,163,$$,"('Burgers, American',)",['delivery'],94158,False,True,False
+191,Caliente Bistro Kitchen,Oz7Uch-u5Qf7i5BlriLhTg,37.78101,-122.47126,"4828 Geary Blvd, San Francisco, CA 94118",4.8,303,$$,"('Mexican, Bars',)","['pickup', 'delivery']",94118,True,True,False
+192,Hinodeya Japantown,Fe-YjAdSRLqDC2H_pqPcSw,37.786225740983646,-122.4301213192068,"1737 Buchanan St, San Francisco, CA 94115",4.2,2097,$$,"('Ramen',)","['pickup', 'delivery']",94115,True,True,False
+193,Fin Thai SF ,55Q_YpFlzvHK-0Zd7E-cJA,37.79832598843434,-122.4225918,"2327 Polk St, San Francisco, CA 94109",4.7,75,N/A,"('Thai, Wine Bars, Noodles',)","['pickup', 'delivery', 'restaurant_reservation']",94109,True,True,True
+194,New Thai Elephant,1QLTk6MMoKf9MsElJlmOYQ,37.80556873618561,-122.4134825,"393 Bay St, San Francisco, CA 94133",4.4,433,$$,"('Thai',)","['pickup', 'delivery']",94133,True,True,False
+195,Ernest,x24zCTZhA-LiVgYMWs6Wqw,37.76317732013103,-122.41094887566511,"1890 Bryant St, Ste 100, San Francisco, CA 94110",4.3,522,$$$,"('New American, Seafood, Bars',)",[],94110,False,False,False
+196,Gurung Kitchen,W-2ASPO9NQGUlo8RJLblVw,37.76377,-122.46906,"1033 Irving St, San Francisco, CA 94122",4.5,142,N/A,"('Himalayan/Nepalese, Indian',)","['pickup', 'delivery']",94122,True,True,False
+197,YH-Beijing,w6Rqt5gdNHl18wpxGuYnaQ,37.77219859919826,-122.43062306195498,"500 Haight St, San Francisco, CA 94117",4.4,369,$$,"('Chinese',)","['pickup', 'delivery']",94117,True,True,False
+198,Alora,LBJKWnUFtrUfZ94WkAQsjg,37.79790724966297,-122.39602708627648,"Pier 3, Hornblower landing, San Francisco, CA 94111",3.9,72,N/A,"('Mediterranean, Seafood, Cocktail Bars',)",[],94111,False,False,False
+199,Collina,9OrxD3LABJhYxdjZ3ljKYw,37.79531564743986,-122.41816075441048,"1550 Hyde St, San Francisco, CA 94109",4.6,61,N/A,"('Italian, Desserts',)",[],94109,False,False,False
+200,Perilla,RNy3_hU1N2qyS5PVc9RaYQ,37.76415,-122.46711,"836 Irving St, San Francisco, CA 94122",4.1,1638,$$,"('Vietnamese',)","['pickup', 'delivery']",94122,True,True,False
+201,Beit Rima,BjlVE7tTp1UCEttgkM1Big,37.76872324000296,-122.42928109103332,"138 Church St, San Francisco, CA 94114",4.5,832,$$,"('Arabic, Mediterranean, Lebanese',)","['pickup', 'delivery']",94114,True,True,False
+202,GluGlu,TWOVAp8Og0qUtC_kMcEh9g,37.76871121499592,-122.38746723066588,"7 Warriors Way, Ste 202, San Francisco, CA 94158",4.6,19,N/A,"('Wine Bars, Mediterranean, Seafood',)",[],94158,False,False,False
+203,Little Aloha,3o02eHV5vgN2lMY7OkgKHw,37.74278,-122.47815,"1115 Taraval St, San Francisco, CA 94116",4.5,54,$$,"('Hawaiian, Shaved Ice',)",[],94116,False,False,False
+204,Bodega,nF2XsQVUMFj-_LudpenBVg,37.80135,-122.41129,"700 Columbus Ave, San Francisco, CA 94133",4.4,320,$$,"('Wine Bars, Beer Bar, New American',)",['delivery'],94133,False,True,False
+205,The Harlequin,jd-04Ot7ar9ILiX0J3oGjA,37.784896,-122.405047,"68 4th St, San Francisco, CA 94103",4.0,113,$$$,"('Cocktail Bars, Venues & Event Spaces, New American',)",[],94103,False,False,False
+206,Piccino Restaurant,i2VhtC1JkV_sZOA4urd1ng,37.75758695921704,-122.38996334651848,"1001 Minnesota St, San Francisco, CA 94107",4.0,1593,$$$,"('Italian, Coffee & Tea, Cocktail Bars',)",['delivery'],94107,False,True,False
+207,Heritage Restaurant & Bar,J9UxQxX91mgYF7c2HqRAsA,37.78305,-122.46684,"708 Clement St, San Francisco, CA 94118",4.3,291,$$,"('New American, Cocktail Bars',)",['delivery'],94118,False,True,False
+208,Purple Rice,8u7pyRsCdf0DOP-Vg6MuLQ,37.771917,-122.430753,"509 Haight St, San Francisco, CA 94117",4.2,298,$$,"('Korean, Barbeque, Asian Fusion',)","['pickup', 'delivery']",94117,True,True,False
+209,Heroic Italian,sVc32Y9epCUnurrbkyOlcA,37.75977017244578,-122.43513274110454,"572 Castro St, Swirl on Castro Wine Bar, San Francisco, CA 94114",4.5,117,N/A,"('Italian, Sandwiches, Wine Bars',)","['pickup', 'delivery']",94114,True,True,False
+210,Square Pie Guys,iyo3pjuRb7mTpaDwXnAzuQ,37.7795,-122.4103,"1077 Mission St, San Francisco, CA 94103",4.3,914,$$,"('Pizza, Chicken Wings, Salad',)","['pickup', 'delivery']",94103,True,True,False
+211,Dumpling Kitchen,BI40rGhpngLNPacrjWpseQ,37.742325,-122.487002,"1935 Taraval St, San Francisco, CA 94116",4.1,2187,$$,"('Chinese',)","['pickup', 'delivery']",94116,True,True,False
+212,Mamanoko,EztBa2wTrc8z3DAF0YhtpQ,37.7999557,-122.4414378,"2317 Chestnut St, San Francisco, CA 94123",4.3,658,$$,"('Japanese, Cocktail Bars, Sushi Bars',)",['delivery'],94123,False,True,False
+213,Poesia,1FZM1wOnjMYg0KPSD9qTjg,37.76115,-122.43431,"4072 18th St, San Francisco, CA 94114",4.0,919,$$$,"('Italian, Bars',)",['pickup'],94114,True,False,False
+214,Mamahuhu,lXMdrPSUmA9HfoHosOvzbQ,37.78267,-122.46493,"517 Clement St, San Francisco, CA 94118",4.0,464,$$,"('Chinese',)",['delivery'],94118,False,True,False
+215,Picaro,KRcMsXmeILmC8OXmcXOQgA,37.765051,-122.42246,"3120 16th St, San Francisco, CA 94103",3.9,2015,$$,"('Spanish, Basque, Tapas Bars',)","['pickup', 'restaurant_reservation', 'delivery']",94103,True,True,True
+216,Casaro Osteria,kocC76T8rRoXxBEePHQYDw,37.797457,-122.434507,"2136 Union St, San Francisco, CA 94123",4.4,256,$$,"('Pizza, Cocktail Bars',)","['pickup', 'delivery']",94123,True,True,False
+217,Peacock Pansy,tsTaOdh_CPGr56JAjA2aVA,37.778879,-122.423235,"392 Fulton St, San Francisco, CA 94102",4.3,231,$$,"('Breakfast & Brunch, Asian Fusion',)","['pickup', 'restaurant_reservation', 'delivery']",94102,True,True,True
+218,Sunset29 BBQ,L3uofdExs33e1UtiQ_leeg,37.74460699178949,-122.48616693946488,"San Francisco , CA 94116",5.0,59,N/A,"('Barbeque, Pop-Up Restaurants',)",[],94116,False,False,False
+219,Pasta Supply,GNvfq8PAnxkeZNaf2CYUgA,37.75531764326802,-122.4195362,"3233 22nd St, San Francisco, CA 94110",4.7,21,N/A,"('Pasta Shops, Italian',)",[],94110,False,False,False
+220,Papito Hayes,Edjd2Z4Tr1XYy6yq6jMM2w,37.776635,-122.423396,"425 Hayes St, Ste A, San Francisco, CA 94102",4.1,1091,$$,"('Mexican',)","['pickup', 'delivery']",94102,True,True,False
+221,Zona Rosa Mexican Grill,Qho1it7RMDXgDVOoaUt8kA,37.76337770000001,-122.43389504387795,"2337 Market St, San Francisco, CA 94114",4.7,45,N/A,"('Mexican',)","['pickup', 'delivery']",94114,True,True,False
+222,Brenda's Meat & Three,UbKrcsBaZoaBkBOajEX08g,37.7781489203981,-122.438551256878,"919 Divisadero St, San Francisco, CA 94115",4.2,1570,$$,"('Breakfast & Brunch, Southern, Cajun/Creole',)",['delivery'],94115,False,True,False
+223,Alimentari Aurora,a_kY3Nqj2tTadVgEbyH03g,37.76243,-122.39682,"1415 18th St, San Francisco, CA 94107",4.8,35,N/A,"('Specialty Food, Delis',)",[],94107,False,False,False
+224,Bento Peak,NwbRaJVrghj_TzFg1kQjqw,37.78108883884226,-122.4702069,"4724 Geary Blvd, San Francisco, CA 94118",4.5,99,$$,"('Japanese',)","['pickup', 'delivery']",94118,True,True,False
+225,Limón,r7RwvYMwxDuK3u26fHbYDA,37.75703,-122.41652,"1001 S Van Ness Ave, San Francisco, CA 94110",4.0,3602,$$$,"('Peruvian, Tapas/Small Plates',)","['pickup', 'restaurant_reservation', 'delivery']",94110,True,True,True
+226,Freekeh,E1afEB6othmgSJZKIqeMFA,37.765098,-122.422628,"3126 16th St, San Francisco, CA 94103",4.7,215,$$,"('Mediterranean, Middle Eastern',)","['pickup', 'restaurant_reservation', 'delivery']",94103,True,True,True
+227,Copper Bar Kitchen & Microbrewery,xpS5so5GHAe4_Rja-IgOmg,37.76109,-122.434688,"4092 18th St, San Francisco, CA 94114",4.6,37,$$,"('Cocktail Bars, Breakfast & Brunch',)",['pickup'],94114,True,False,False
+228,Shanghai Dumpling King,BHFpoA4yCRJypcExD0XrPA,37.76782,-122.4295,"720 14th St, San Francisco, CA 94114",4.5,123,$$,"('Dim Sum',)","['pickup', 'delivery']",94114,True,True,False
+229,HK Lounge Bistro,wfV46UVjYskCRPjn0DNkMg,37.77616,-122.40881,"1136 Folsom St, San Francisco, CA 94103",4.3,178,$$,"('Dim Sum',)",['restaurant_reservation'],94103,False,False,True
+230,Il Casaro Pizzeria & Mozzarella Bar - North Beach,I8T8aoAsFQYwQiRvLBayFA,37.79852,-122.40739,"348 Columbus Ave, San Francisco, CA 94133",4.3,1876,$$,"('Italian, Pizza',)","['pickup', 'delivery']",94133,True,True,False
+231,Zajang Grill,s-secFAvHQQ-5QhMulr_ZA,37.783001,-122.468376,"852 Clement St, San Francisco, CA 94118",4.5,152,$$$,"('Korean, Buffets, Barbeque',)",[],94118,False,False,False
+232,Pizzetta 211,QOpqNPKpClL48TVVrYobAw,37.783684,-122.482974,"211 23rd Ave, San Francisco, CA 94121",4.2,1526,$$,"('Pizza, Salad, Wine Bars',)",['pickup'],94121,True,False,False
+233,Lavash,MnGeqFYFTsWjdWSvMyPO0w,37.76406989831434,-122.46342441895987,"511 Irving St, San Francisco, CA 94122",4.2,1729,$$$,"('Persian/Iranian, Wine Bars, Mediterranean',)","['pickup', 'delivery']",94122,True,True,False
+234,Tanglad,OOlS_RmdMk1LHtgOQWoHoA,37.761492,-122.434844,"469 Castro St, San Francisco, CA 94114",4.4,313,$$,"('Vietnamese',)","['pickup', 'delivery']",94114,True,True,False
+235,Rich Table,Xdx2_n3nk9Td_aSe7E5ARQ,37.77485,-122.42284,"199 Gough St, San Francisco, CA 94102",4.2,1611,$$$,"('New American, Cocktail Bars, Wine Bars',)",['delivery'],94102,False,True,False
+236,Wooden Spoon,UYNswbdsQ5OvwnyY9esxCw,37.7666182758937,-122.430262778253,"2172 Market St, San Francisco, CA 94114",4.4,744,$$,"('Breakfast & Brunch',)",['delivery'],94114,False,True,False
+237,Amarena,SIlvau33Tsp5IuEEmGf46A,37.7976816937671,-122.420360780032,"2162 Larkin St, San Francisco, CA 94109",4.0,703,$$,"('Italian',)","['pickup', 'restaurant_reservation', 'delivery']",94109,True,True,True
+238,Bocado,nS2WlSB9oTM1FZjM_-hcOA,37.783444,-122.399098,"701 Folsom St, San Francisco, CA 94107",4.4,180,N/A,"('Peruvian, Desserts, Cocktail Bars',)","['pickup', 'restaurant_reservation', 'delivery']",94107,True,True,True
+239,Routier,cCVR9W_L2rqexfKAjfBTzQ,37.78789,-122.440595,"2801 California St, San Francisco, CA 94115",4.4,191,$$$$,"('French',)",[],94115,False,False,False
