@@ -1,5 +1,5 @@
 # project-3
-# Accessibility and Restaurant Success
+## Accessibility and Restaurant Success
 ## Authors: Drew Johnson, Natalie Raver-Goldsby, Tenille Franklinb
 
 #### Overview
