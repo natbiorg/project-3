@@ -16,7 +16,7 @@ MapBox directions API provides the time between two sets of coordinates or addre
 <br>#TODO Instructions on how to use and interact with the project</br>
   
 #### Ethical Considerations
-<br>#TODO At least one paragraph summarizing efforts for ethical considerations made in the project</br>
+One of the main ethical considerations we considered during our project was ensuring compliance with Yelp’s and MapBox’s terms of service during our data collection initiative. Both websites state rate limits they require their users to abide by based on type of account. We had to plan our calls accordingly while ensuring our code was correct to successfully extract our desired data on each attempt. Our second ethical consideration was our choice of location to analyze. San Francisco is well known for its large geographical size coupled with a diverse representation of cultures, industries, and neighborhoods. This eliminated any potential biases or skews in our data as our city choice possessed the characteristics to collect and analyze objective data. Our third and final ethical consideration was our use of findings for our project. We had intentions for our work to be informative, transparent, and practical for our audience. In addition, we hoped our project would inspire meaningful discussion on a rather unique topic. 
 
 #### References
 <br>#TODO References for the data source(s)</br>
